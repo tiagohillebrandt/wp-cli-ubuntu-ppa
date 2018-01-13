@@ -1,0 +1,5 @@
+wp-cli (1.4.1) xenial; urgency=medium
+
+  * WP-CLI 1.4.1 package.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Tue, 09 Jan 2018 00:52:29 -0600
