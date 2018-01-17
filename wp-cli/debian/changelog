@@ -1,3 +1,10 @@
+wp-cli (1.4.1ubuntu1) xenial; urgency=medium
+
+  * Removes php-cli from dependencies.
+  * Includes bash completion script.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Wed, 17 Jan 2018 14:50:16 -0600
+
 wp-cli (1.4.1) xenial; urgency=medium
 
   * WP-CLI 1.4.1 package.

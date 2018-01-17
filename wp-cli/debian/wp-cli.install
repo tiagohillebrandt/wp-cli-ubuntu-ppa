@@ -1,1 +1,2 @@
 usr/bin/wp
+etc/bash_completion.d/wp-completion.bash /etc/bash_completion.d/
