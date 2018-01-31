@@ -1,3 +1,9 @@
+wp-cli (1.5.0) xenial; urgency=medium
+
+  * WP-CLI 1.5.0 package.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Wed, 31 Jan 2018 12:00:45 -0600
+
 wp-cli (1.4.1ubuntu1) xenial; urgency=medium
 
   * Removes php-cli from dependencies.
