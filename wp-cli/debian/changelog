@@ -1,3 +1,9 @@
+wp-cli (2.0.1) xenial; urgency=medium
+
+  * WP-CLI 2.0.1 package.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Thu, 23 Aug 2018 23:57:06 -0500
+
 wp-cli (2.0.0) xenial; urgency=medium
 
   * WP-CLI 2.0.0 package.
