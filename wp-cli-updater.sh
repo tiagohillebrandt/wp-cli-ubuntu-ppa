@@ -3,6 +3,8 @@
 # Updates WP-CLI and its tab completion script.
 #
 
+set -x
+
 # download latest WP-CLI from their website
 curl -sSO https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 chmod +x wp-cli.phar
