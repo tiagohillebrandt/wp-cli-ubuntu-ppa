@@ -1,3 +1,9 @@
+wp-cli (2.9.0) xenial; urgency=medium
+
+  * WP-CLI 2.9.0.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Thu, 02 Nov 2023 02:25:34 -0300
+
 wp-cli (2.8.1) xenial; urgency=medium
 
   * WP-CLI 2.8.1.
